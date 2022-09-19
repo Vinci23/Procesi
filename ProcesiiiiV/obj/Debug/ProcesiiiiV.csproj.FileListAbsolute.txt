@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\ProcesiiiiV\bin\Debug\ProcesiiiiV.exe.config
+C:\Users\ucenik\source\repos\ProcesiiiiV\bin\Debug\ProcesiiiiV.exe
+C:\Users\ucenik\source\repos\ProcesiiiiV\bin\Debug\ProcesiiiiV.pdb
+C:\Users\ucenik\source\repos\ProcesiiiiV\obj\Debug\ProcesiiiiV.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\ProcesiiiiV\obj\Debug\ProcesiiiiV.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\ProcesiiiiV\obj\Debug\ProcesiiiiV.Form1.resources
+C:\Users\ucenik\source\repos\ProcesiiiiV\obj\Debug\ProcesiiiiV.Properties.Resources.resources
+C:\Users\ucenik\source\repos\ProcesiiiiV\obj\Debug\ProcesiiiiV.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\ProcesiiiiV\obj\Debug\ProcesiiiiV.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\ProcesiiiiV\obj\Debug\ProcesiiiiV.exe
+C:\Users\ucenik\source\repos\ProcesiiiiV\obj\Debug\ProcesiiiiV.pdb
